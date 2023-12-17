@@ -25,7 +25,7 @@
 		
 			<div class="word">
 			
-				<h3>FULL LIST OF BOOKS</h3>
+				<h3>전체 도서 리스트</h3>
 				
 			</div>
 			
